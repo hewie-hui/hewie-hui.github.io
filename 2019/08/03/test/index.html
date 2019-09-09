@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next gemini use-motion" lang="zh-Hans">
+<head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#222">
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i["DaoVoiceObject"]=r;i[r]=i[r]||function(){(i[r].q=	i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.charset="utf-8";m.parentNode.insertBefore(a,m)})(window,document,"script",('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/0f81ff2f.js","daovoice")
+  daovoice('init', {
+      app_id: "263c7ef2"
+    });
+  daovoice('update');
+  </script>
+
+
+  
+  
+    
+    
+  <script src="/lib/pace/pace.min.js?v=1.0.2"></script>
+  <link href="/lib/pace/pace-theme-minimal.min.css?v=1.0.2" rel="stylesheet">
+  <script>
+    (function () {
+        if ('') {
+            if (prompt('请输入文章密码') !== '') {
+                alert('密码错误！');
+                if (history.length === 1) {
+                    location.replace("http://gofarther.live"); // 这里替换成你的首页
+                } else {
+                    history.back();
+                }
+            }
+        }
+    })();
+</script>
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Monda:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|Lobster Two:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css">
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.ico?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16.ico?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="github,hexo,">
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="go farther" type="application/atom+xml">
+
+
+
+
+
+
+<meta name="description" content="一、准备工作1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。">
+<meta name="keywords" content="github,hexo">
+<meta property="og:type" content="article">
+<meta property="og:title" content="用hexo，github搭建轻量型博客">
+<meta property="og:url" content="http://gofarther.live/2019/08/03/test/index.html">
+<meta property="og:site_name" content="go farther">
+<meta property="og:description" content="一、准备工作1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/1.png">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/2.png">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/3.png">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/4.png">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/5.png">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/6.png">
+<meta property="og:image" content="http://gofarther.live/2019/08/03/test/7.png">
+<meta property="og:updated_time" content="2019-09-09T07:31:30.113Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="用hexo，github搭建轻量型博客">
+<meta name="twitter:description" content="一、准备工作1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。">
+<meta name="twitter:image" content="http://gofarther.live/2019/08/03/test/1.png">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Gemini',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":true,"scrollpercent":true,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://gofarther.live/2019/08/03/test/">
+
+
+
+
+
+  <title>用hexo，github搭建轻量型博客 | go farther</title>
+  
+
+
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3a00c55e25e6638c3d04535d1a1b45cb";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">go farther</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">Hewie's blog</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br>
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br>
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br>
+            
+            关于
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://gofarther.live/2019/08/03/test/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Hewie">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/images/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="go farther">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">用hexo，github搭建轻量型博客</h1>
+        
+
+        <div class="post-meta">
+			
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-08-03T22:32:00+08:00">
+                2019-08-03
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/教程/" itemprop="url" rel="index">
+                    <span itemprop="name">教程</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/08/03/test/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2019/08/03/test/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">字数统计&#58;</span>
+                
+                <span title="字数统计">
+                  363
+                </span>
+              
+
+              
+
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h5 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a>一、准备工作</h5><h6 id="1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。"><a href="#1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。" class="headerlink" title="1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。"></a>1、注册一个GitHub账号,并创建一个名为<code>你的用户名.github.io</code>（比如hewie-hui.github.io）的仓库。<a id="more"></a></h6><h6 id="2、安装npm-node-js-git客户端-hexo"><a href="#2、安装npm-node-js-git客户端-hexo" class="headerlink" title="2、安装npm,node.js,git客户端,hexo"></a>2、安装npm,node.js,git客户端,hexo</h6><p>npm<a href="https://www.npmjs.com/" target="_blank" rel="noopener">点击进入官网</a> 安装命令：<code>npm install npm@latest -g</code><img src="/2019/08/03/test/1.png" alt="1"></p>
+<p>nodejs<a href="https://nodejs.org/en/" target="_blank" rel="noopener">点我下载</a></p>
+<p>git客户端<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">点我下载</a></p>
+<p>hexo<a href="https://hexo.io/" target="_blank" rel="noopener">点击进入官网</a>    安装命令：<code>npm install hexo-cli -g</code><img src="/2019/08/03/test/2.png" alt="2"></p>
+<h6 id="3、配置GitHub客户端"><a href="#3、配置GitHub客户端" class="headerlink" title="3、配置GitHub客户端"></a>3、配置GitHub客户端</h6><p><a href="https://gofarther.live/2019/08/04/1/">SSH方式配置本地与GitHub连接</a></p>
+<h5 id="二、初始化hexo"><a href="#二、初始化hexo" class="headerlink" title="二、初始化hexo"></a>二、初始化hexo</h5><h6 id="1、选一个位置新建一个文件夹-如：G-hexo-用于hexo初始化"><a href="#1、选一个位置新建一个文件夹-如：G-hexo-用于hexo初始化" class="headerlink" title="1、选一个位置新建一个文件夹(如：G:\hexo)用于hexo初始化"></a>1、选一个位置新建一个文件夹(如：G:\hexo)用于hexo初始化</h6><p>在该文件夹下执行命令： <code>hexo init</code></p>
+<p>hexo会自动下载一些文件到这个目录（截图是我后来截的，public文件夹此时应该还没有）<img src="/2019/08/03/test/3.png" alt="3"></p>
+<p>继续执行命令:</p>
+<p><code>hexo g # 生成</code></p>
+<p><code>hexo s # 启动服务预览</code></p>
+<p>hexo就会在public文件夹生成相关html文件，这些文件将提交到github<img src="/2019/08/03/test/4.png" alt="4"></p>
+<p>此时访问<a href="http://localhost:4000/" target="_blank" rel="noopener">http://localhost:4000</a>可以看到一个默认主题的博客了</p>
+<h5 id="三、上传到GitHub"><a href="#三、上传到GitHub" class="headerlink" title="三、上传到GitHub"></a>三、上传到GitHub</h5><h6 id="1、配置-config-yml文件"><a href="#1、配置-config-yml文件" class="headerlink" title="1、配置_config.yml文件"></a>1、配置<code>_config.yml</code>文件</h6><p>编辑<code>_config.yml</code>：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line"><span class="attr">  type:</span> <span class="string">git</span></span><br><span class="line"><span class="attr">  repository:</span> <span class="string">git@github.com:hewie-hui/hewie-hui.github.io.git</span></span><br><span class="line"><span class="attr">  branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure>
+
+<h6 id="2、安装插件-npm-install-hexo-deployer-git-save"><a href="#2、安装插件-npm-install-hexo-deployer-git-save" class="headerlink" title="2、安装插件 npm install hexo-deployer-git --save"></a>2、安装插件 <code>npm install hexo-deployer-git --save</code></h6><h6 id="3、执行命令hexo-d将文件提交到GitHub"><a href="#3、执行命令hexo-d将文件提交到GitHub" class="headerlink" title="3、执行命令hexo d将文件提交到GitHub"></a>3、执行命令<code>hexo d</code>将文件提交到GitHub</h6><p>此时访问<code>你的用户名.github.io</code>（比如hewie-hui.github.io）就能看到博客了</p>
+<h5 id="四、写博客"><a href="#四、写博客" class="headerlink" title="四、写博客"></a>四、写博客</h5><p>在hexo根目录执行命令    hexo new ‘test-blog’`<img src="/2019/08/03/test/5.png" alt="5"></p>
+<p>-posts文件夹下就生成我们的博客文件了<img src="/2019/08/03/test/6.png" alt="6"></p>
+<p>编辑.md文件即编辑我们的博客<img src="/2019/08/03/test/7.png" alt="8"></p>
+
+      
+			
+			<div>
+    
+        <div style="text-align:center;color: #555;font-size:14px;">----------本文结束，欢迎在下方留言评论----------</div>
+    
+</div>
+			
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/github/" rel="tag"><i class="fa fa-tag"></i> github</a>
+          
+            <a href="/tags/hexo/" rel="tag"><i class="fa fa-tag"></i> hexo</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/08/01/my-first-blog/" rel="next" title="学无止境">
+                <i class="fa fa-chevron-left"></i> 学无止境
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/08/04/1/" rel="prev" title="SSH方式配置GitHub">
+                SSH方式配置GitHub <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox">
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d765943ca662fc3" async="async"></script>
+</div>
+
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+    </div>
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image" src="/images/avatar.png" alt="Hewie">
+            
+              <p class="site-author-name" itemprop="name">Hewie</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives">
+              
+                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/hewie-hui" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-github"></i></a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="mailto:hewiehui@163.com" target="_blank" title="E-Mail">
+                      
+                        <i class="fa fa-fw fa-envelope"></i></a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="http://wpa.qq.com/msgrd?v=3&uin=1040689875&site=qq&menu=yes" target="_blank" title="QQ">
+                      
+                        <i class="fa fa-fw fa-qq"></i></a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://m.weibo.cn/u/5973328929" target="_blank" title="Weibo">
+                      
+                        <i class="fa fa-fw fa-weibo"></i></a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://twitter.com/hewie_hui" target="_blank" title="Twitter">
+                      
+                        <i class="fa fa-fw fa-twitter"></i></a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+		  
+		  
+    <div class="links-of-blogroll motion-element links-of-blogroll-block">
+      <div class="links-of-blogroll-title">
+        <!-- modify icon to fire by szw -->
+        <i class="fa fa-history fa-" aria-hidden="true"></i>
+        近期文章
+      </div>
+      <ul class="links-of-blogroll-list">
+        
+        
+          <li>
+            <a href="/2019/09/07/stay-foolish/" title="求知若饥，虚心若愚" target="_blank">求知若饥，虚心若愚</a>
+          </li>
+        
+          <li>
+            <a href="/2019/09/05/blog/" title="博客的意义" target="_blank">博客的意义</a>
+          </li>
+        
+          <li>
+            <a href="/2019/08/04/1/" title="SSH方式配置GitHub" target="_blank">SSH方式配置GitHub</a>
+          </li>
+        
+          <li>
+            <a href="/2019/08/03/test/" title="用hexo，github搭建轻量型博客" target="_blank">用hexo，github搭建轻量型博客</a>
+          </li>
+        
+          <li>
+            <a href="/2019/08/01/my-first-blog/" title="学无止境" target="_blank">学无止境</a>
+          </li>
+        
+      </ul>
+    </div>
+
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-5"><a class="nav-link" href="#一、准备工作"><span class="nav-text">一、准备工作</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。"><span class="nav-text">1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。</span></a></li><li class="nav-item nav-level-6"><a class="nav-link" href="#2、安装npm-node-js-git客户端-hexo"><span class="nav-text">2、安装npm,node.js,git客户端,hexo</span></a></li><li class="nav-item nav-level-6"><a class="nav-link" href="#3、配置GitHub客户端"><span class="nav-text">3、配置GitHub客户端</span></a></li></ol></li><li class="nav-item nav-level-5"><a class="nav-link" href="#二、初始化hexo"><span class="nav-text">二、初始化hexo</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#1、选一个位置新建一个文件夹-如：G-hexo-用于hexo初始化"><span class="nav-text">1、选一个位置新建一个文件夹(如：G:\hexo)用于hexo初始化</span></a></li></ol></li><li class="nav-item nav-level-5"><a class="nav-link" href="#三、上传到GitHub"><span class="nav-text">三、上传到GitHub</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#1、配置-config-yml文件"><span class="nav-text">1、配置_config.yml文件</span></a></li><li class="nav-item nav-level-6"><a class="nav-link" href="#2、安装插件-npm-install-hexo-deployer-git-save"><span class="nav-text">2、安装插件 npm install hexo-deployer-git --save</span></a></li><li class="nav-item nav-level-6"><a class="nav-link" href="#3、执行命令hexo-d将文件提交到GitHub"><span class="nav-text">3、执行命令hexo d将文件提交到GitHub</span></a></li></ol></li><li class="nav-item nav-level-5"><a class="nav-link" href="#四、写博客"><span class="nav-text">四、写博客</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+        <div class="back-to-top">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Hewie</span>
+
+  
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-area-chart"></i>
+    </span>
+    
+      <span class="post-meta-item-text">网站总字数&#58;</span>
+    
+    <span title="网站总字数">2.5k</span>
+  
+</div>
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'elttXw6AYtVdRGGNuPLvPfhW-gzGzoHsz',
+        appKey: 'Tik6PKfBpzHOfeMglHWyGl9E',
+        placeholder: '撰写评论',
+        avatar:'wavatar',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>go farther</title>
+  
+  <subtitle>Hewie&#39;s blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://gofarther.live/"/>
+  <updated>2019-09-09T04:49:58.306Z</updated>
+  <id>http://gofarther.live/</id>
+  
+  <author>
+    <name>Hewie</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>求知若饥，虚心若愚</title>
+    <link href="http://gofarther.live/2019/09/07/stay-foolish/"/>
+    <id>http://gofarther.live/2019/09/07/stay-foolish/</id>
+    <published>2019-09-07T14:50:20.000Z</published>
+    <updated>2019-09-09T04:49:58.306Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;大四开始了，课程表上一片空白，周围大部分的同学都在准备考研，少数的人选择了找工作。感觉长大后，时间过得特别快，昨天我还是对大学的生活充满憧憬的中学生，今天就已经是即将面对残酷社会的下一届毕业大学生。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客的意义</title>
+    <link href="http://gofarther.live/2019/09/05/blog/"/>
+    <id>http://gofarther.live/2019/09/05/blog/</id>
+    <published>2019-09-05T15:15:52.000Z</published>
+    <updated>2019-09-08T16:13:19.936Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有好好的CSDN，博客园，还有简书等等已经成熟的网站，为什么还要费这么大力气去买域名，建服务器，个人博客的意义何在？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SSH方式配置GitHub</title>
+    <link href="http://gofarther.live/2019/08/04/1/"/>
+    <id>http://gofarther.live/2019/08/04/1/</id>
+    <published>2019-08-04T13:40:24.000Z</published>
+    <updated>2019-09-09T07:09:11.239Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h5 id=&quot;一、本地操作&quot;&gt;&lt;a href=&quot;#一、本地操作&quot; class=&quot;headerlink&quot; title=&quot;一、本地操作&quot;&gt;&lt;/a&gt;一、本地操作&lt;/h5&gt;&lt;p&gt;打开git bash（我认为是在任意位置打开都可以，不过有的博主说是需要在你准备提交项目的文件夹下打开，可参考此博文&lt;a href=&quot;https://blog.csdn.net/jingtingfengguo/article/details/51892864&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;链接&lt;/a&gt;）,输入以下命令：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://gofarther.live/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="github" scheme="http://gofarther.live/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用hexo，github搭建轻量型博客</title>
+    <link href="http://gofarther.live/2019/08/03/test/"/>
+    <id>http://gofarther.live/2019/08/03/test/</id>
+    <published>2019-08-03T14:32:00.000Z</published>
+    <updated>2019-09-09T07:31:30.113Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h5 id=&quot;一、准备工作&quot;&gt;&lt;a href=&quot;#一、准备工作&quot; class=&quot;headerlink&quot; title=&quot;一、准备工作&quot;&gt;&lt;/a&gt;一、准备工作&lt;/h5&gt;&lt;h6 id=&quot;1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。&quot;&gt;&lt;a href=&quot;#1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。&quot; class=&quot;headerlink&quot; title=&quot;1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。&quot;&gt;&lt;/a&gt;1、注册一个GitHub账号,并创建一个名为&lt;code&gt;你的用户名.github.io&lt;/code&gt;（比如hewie-hui.github.io）的仓库。&lt;/h6&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://gofarther.live/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="github" scheme="http://gofarther.live/tags/github/"/>
+    
+      <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学无止境</title>
+    <link href="http://gofarther.live/2019/08/01/my-first-blog/"/>
+    <id>http://gofarther.live/2019/08/01/my-first-blog/</id>
+    <published>2019-08-01T04:04:42.000Z</published>
+    <updated>2019-09-09T12:58:57.926Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我们想学习新的东西，开始时都是比较难受的。一直想搭建一个自己的博客网站，记录分享自己的生活。可是苦于技术过菜，不知道应该先做什么，然后在百度，CSDN，博客园上各种搜。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="github" scheme="http://gofarther.live/tags/github/"/>
+    
+      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+    
+      <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
