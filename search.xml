@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>next主题优化：减小标题与摘要的距离</title>
+      <link href="/2019/09/10/next-optimize-1/"/>
+      <url>/2019/09/10/next-optimize-1/</url>
+      
+        <content type="html"><![CDATA[<p>文章标题与摘要之间的距离过大怎么修改<a id="more"></a>，下图是修改之前：<img src="/2019/09/10/next-optimize-1/1.png" alt="1"></p><p>修改之后：<img src="/2019/09/10/next-optimize-1/2.png" alt="2"></p><p>一开始不知道应该修改哪里的参数，我们先来看看这个留白是谁的，按F12找到这个留白的代码位置<img src="/2019/09/10/next-optimize-1/3.png" alt="3"></p><p>在next文件里搜索这个class的名字<code>post-meta</code>试试，看到一个.stly文件，就是它了<img src="/2019/09/10/next-optimize-1/4.png" alt="4"></p><p>打开查看，显然是margin里的下边距太大了，改成自己觉得适合的大小<img src="/2019/09/10/next-optimize-1/5.png" alt="5"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> next </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>求知若饥，虚心若愚</title>
       <link href="/2019/09/07/stay-foolish/"/>
       <url>/2019/09/07/stay-foolish/</url>
