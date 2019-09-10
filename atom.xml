@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gofarther.live/"/>
-  <updated>2019-09-10T08:55:55.366Z</updated>
+  <updated>2019-09-10T09:40:30.670Z</updated>
   <id>http://gofarther.live/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://gofarther.live/2019/09/10/next-optimize-1/"/>
     <id>http://gofarther.live/2019/09/10/next-optimize-1/</id>
     <published>2019-09-10T07:23:12.000Z</published>
-    <updated>2019-09-10T08:55:55.366Z</updated>
+    <updated>2019-09-10T09:40:30.670Z</updated>
     
     <summary type="html">
     
@@ -142,9 +142,9 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="github" scheme="http://gofarther.live/tags/github/"/>
-    
       <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+    
+      <category term="github" scheme="http://gofarther.live/tags/github/"/>
     
       <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
     
