@@ -162,7 +162,7 @@
 <meta property="og:site_name" content="go farther">
 <meta property="og:description" content="去行更远的路 走的远或近，慢或快 记得看看身边的风景 别让沉重的行囊压坏了你的灵魂 关于我 一个没有什么技术，喜欢到处瞎搞的颓废大学生 热爱文字，尤其对外国文学情有独钟 喜欢篮球，拉不了杆了于是投起三分 总计划着进行一次单人旅行，却没钱没时间 爱看悬疑、反转、讽刺、重口味的电影 平常很少说话，不懂世故却尽力世故 联系交流 微信：plty757 邮箱：hewiehui@163.com 寄语 檐下，独">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-09-10T08:10:26.009Z">
+<meta property="og:updated_time" content="2019-09-10T08:51:30.025Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="about">
 <meta name="twitter:description" content="去行更远的路 走的远或近，慢或快 记得看看身边的风景 别让沉重的行囊压坏了你的灵魂 关于我 一个没有什么技术，喜欢到处瞎搞的颓废大学生 热爱文字，尤其对外国文学情有独钟 喜欢篮球，拉不了杆了于是投起三分 总计划着进行一次单人旅行，却没钱没时间 爱看悬疑、反转、讽刺、重口味的电影 平常很少说话，不懂世故却尽力世故 联系交流 微信：plty757 邮箱：hewiehui@163.com 寄语 檐下，独">
@@ -755,6 +755,13 @@
         guest_info:guest,
         pageSize:'10' || 10,
     });
+	//增加以下六行代码去除 power by valine
+    var infoEle = document.querySelector('#comments .info');
+    if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0){
+      infoEle.childNodes.forEach(function(item) {
+        item.parentNode.removeChild(item);
+      });
+    }
   </script>
 
 

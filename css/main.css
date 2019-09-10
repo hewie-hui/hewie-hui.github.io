@@ -1557,7 +1557,7 @@ pre .javascript .function {
   }
 }
 .post-button {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .posts-expand .post-tags {
   margin-top: 40px;
@@ -1834,7 +1834,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fcf;
+  background: #ff6bcc;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3077,10 +3077,6 @@ pre .javascript .function {
 .post-body h6 {
   font-size: 1.03em;
 }
-.post {
-  margin-top: 10px;
-  margin-bottom: 0px;
-}
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
     padding: 10px;
@@ -3138,7 +3134,7 @@ pre .javascript .function {
   }
 }
 .post {
-  margin-top: 1px;
+  margin-top: 3px;
   margin-bottom: 1px;
   padding: 0px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);

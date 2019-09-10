@@ -30,8 +30,8 @@
   <link href="/lib/pace/pace-theme-minimal.min.css?v=1.0.2" rel="stylesheet">
   <script>
     (function () {
-        if ('123321') {
-            if (prompt('请输入文章密码') !== '123321') {
+        if ('') {
+            if (prompt('请输入文章密码') !== '') {
                 alert('密码错误！');
                 if (history.length == 1) {
                     location.replace("http://gofarther.live"); // 这里替换成你的首页
@@ -162,7 +162,7 @@
 <meta property="og:site_name" content="go farther">
 <meta property="og:description" content="我们想学习新的东西，开始时都是比较难受的。一直想搭建一个自己的博客网站，记录分享自己的生活。可是苦于技术过菜，不知道应该先做什么，然后在百度，CSDN，博客园上各种搜。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-09-09T12:58:57.926Z">
+<meta property="og:updated_time" content="2019-09-10T08:50:38.457Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="学无止境">
 <meta name="twitter:description" content="我们想学习新的东西，开始时都是比较难受的。一直想搭建一个自己的博客网站，记录分享自己的生活。可是苦于技术过菜，不知道应该先做什么，然后在百度，CSDN，博客园上各种搜。">
@@ -921,6 +921,13 @@
         guest_info:guest,
         pageSize:'10' || 10,
     });
+	//增加以下六行代码去除 power by valine
+    var infoEle = document.querySelector('#comments .info');
+    if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0){
+      infoEle.childNodes.forEach(function(item) {
+        item.parentNode.removeChild(item);
+      });
+    }
   </script>
 
 
