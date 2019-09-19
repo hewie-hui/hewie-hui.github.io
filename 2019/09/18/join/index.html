@@ -165,7 +165,7 @@
 <meta property="og:image" content="http://gofarther.live/2019/09/18/join/1.png">
 <meta property="og:image" content="http://gofarther.live/2019/09/18/join/2.png">
 <meta property="og:image" content="http://gofarther.live/2019/09/18/join/3.png">
-<meta property="og:updated_time" content="2019-09-19T08:03:50.451Z">
+<meta property="og:updated_time" content="2019-09-19T08:13:00.302Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="数据库中的连接（自然连接和等值连接）">
 <meta name="twitter:description" content="一、名词解释关系：一张表">
@@ -446,7 +446,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  457
+                  456
                 </span>
               
 
@@ -480,10 +480,10 @@
 <h5 id="二、等值连接"><a href="#二、等值连接" class="headerlink" title="二、等值连接"></a>二、等值连接</h5><p>关系R、S,取两者笛卡尔积中属性值相等的元组，如：R.A=S.B，R.B=S.B（<strong>属性名可以不同</strong>）如下表：<img src="/2019/09/18/join/2.png" alt="2"></p>
 <p>R.B列和S.B列中相同的值有b1、b2</p>
 <p>把R和S的笛卡尔积中<strong>R.B和S.B相等的每一行都拿出来</strong>就是等值连接的结果</p>
-<h5 id="三、自然连接"><a href="#三、自然连接" class="headerlink" title="三、自然连接"></a>三、自然连接</h5><p>自然连接是关系R和S在所有公共属性（common attribute）上的等接（Equijoin）。但在得到的结果中公共属性只保留一次，其余删除（<strong>即上表中的R.B和S.B列只保留一个列</strong>）。<img src="/2019/09/18/join/3.png" alt="3"></p>
+<h5 id="三、自然连接"><a href="#三、自然连接" class="headerlink" title="三、自然连接"></a>三、自然连接</h5><p>自然连接是关系R和S在所有公共属性（common attribute）上的等接（Equijoin）。但在得到的结果中公共属性只保留一次，其余删除（<strong>即上表中的R.B和S.B列只保留一列</strong>）。<img src="/2019/09/18/join/3.png" alt="3"></p>
 <h5 id="四、等值连接与自然连接的联系"><a href="#四、等值连接与自然连接的联系" class="headerlink" title="四、等值连接与自然连接的联系"></a>四、等值连接与自然连接的联系</h5><p><u>自然连接是一种特殊的等值连接</u>，它要求两个关系中进行比较的分量必须是相同的属性组，并且<u>在结果中把重复的属性列去掉，而等值连接并不去掉重复的属性列。</u></p>
 <h5 id="五、等值连接与自然连接的区别"><a href="#五、等值连接与自然连接的区别" class="headerlink" title="五、等值连接与自然连接的区别"></a>五、等值连接与自然连接的区别</h5><p>1、等值连接中不要求属性值完全相同，而自然连接要求两个关系中进行比较的必须是相同的属性组（属性名可以不同），即要求必须有相同的值域。</p>
-<p>2、等值连接不将重复属性去掉，而自然连接去掉重复属性，也可以说，自然连接是去掉重复列的等值连接。</p>
+<p>2、等值连接不将重复属性去掉，而自然连接去掉重复属性，也可以说，<strong>自然连接是去掉重复列的等值连接</strong>。</p>
 
       
 			
