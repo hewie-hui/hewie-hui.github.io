@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gofarther.live/"/>
-  <updated>2019-09-19T08:13:00.302Z</updated>
+  <updated>2019-11-24T15:01:18.733Z</updated>
   <id>http://gofarther.live/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10001</title>
+    <link href="http://gofarther.live/2019/11/24/10001/"/>
+    <id>http://gofarther.live/2019/11/24/10001/</id>
+    <published>2019-11-24T14:48:57.000Z</published>
+    <updated>2019-11-24T15:01:18.733Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;center&gt;1&lt;/center&gt;&lt;/h3&gt;&lt;p&gt;说说今年下半年家里的一些事：堂弟和表弟纷纷上了大学，一个是走的滨州学院教师委培，一个是山东体育学院体育生。舅妈三胎，据推算会在年底给我生个表弟。堂姐自毕业后一直没找到稳定的工作&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="烦恼" scheme="http://gofarther.live/tags/%E7%83%A6%E6%81%BC/"/>
+    
+      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+    
+      <category term="欣喜" scheme="http://gofarther.live/tags/%E6%AC%A3%E5%96%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>数据库中的连接（自然连接和等值连接）</title>
@@ -163,11 +188,11 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
+      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+    
       <category term="github" scheme="http://gofarther.live/tags/github/"/>
     
       <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
-    
-      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
     
   </entry>
   
