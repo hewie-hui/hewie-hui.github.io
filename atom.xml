@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gofarther.live/"/>
-  <updated>2019-11-24T15:01:18.733Z</updated>
+  <updated>2019-11-25T05:11:38.097Z</updated>
   <id>http://gofarther.live/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://gofarther.live/2019/11/24/10001/"/>
     <id>http://gofarther.live/2019/11/24/10001/</id>
     <published>2019-11-24T14:48:57.000Z</published>
-    <updated>2019-11-24T15:01:18.733Z</updated>
+    <updated>2019-11-25T05:11:38.097Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;center&gt;1&lt;/center&gt;&lt;/h3&gt;&lt;p&gt;说说今年下半年家里的一些事：堂弟和表弟纷纷上了大学，一个是走的滨州学院教师委培，一个是山东体育学院体育生。舅妈三胎，据推算会在年底给我生个表弟。堂姐自毕业后一直没找到稳定的工作&lt;/p&gt;
+      &lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
     
     </summary>
     
@@ -33,11 +33,13 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="烦恼" scheme="http://gofarther.live/tags/%E7%83%A6%E6%81%BC/"/>
+      <category term="生活" scheme="http://gofarther.live/tags/%E7%94%9F%E6%B4%BB/"/>
     
-      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+      <category term="家" scheme="http://gofarther.live/tags/%E5%AE%B6/"/>
     
-      <category term="欣喜" scheme="http://gofarther.live/tags/%E6%AC%A3%E5%96%9C/"/>
+      <category term="双十一" scheme="http://gofarther.live/tags/%E5%8F%8C%E5%8D%81%E4%B8%80/"/>
+    
+      <category term="小米" scheme="http://gofarther.live/tags/%E5%B0%8F%E7%B1%B3/"/>
     
   </entry>
   
@@ -46,11 +48,11 @@
     <link href="http://gofarther.live/2019/09/18/join/"/>
     <id>http://gofarther.live/2019/09/18/join/</id>
     <published>2019-09-18T04:34:36.000Z</published>
-    <updated>2019-09-19T08:13:00.302Z</updated>
+    <updated>2019-11-25T05:12:55.491Z</updated>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;一、名词解释&quot;&gt;&lt;a href=&quot;#一、名词解释&quot; class=&quot;headerlink&quot; title=&quot;一、名词解释&quot;&gt;&lt;/a&gt;一、名词解释&lt;/h5&gt;&lt;p&gt;关系：一张表&lt;/p&gt;
+      &lt;h5 id=&quot;一、名词解释&quot;&gt;&lt;a href=&quot;#一、名词解释&quot; class=&quot;headerlink&quot; title=&quot;一、名词解释&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -60,6 +62,8 @@
     
       <category term="sql" scheme="http://gofarther.live/tags/sql/"/>
     
+      <category term="连接" scheme="http://gofarther.live/tags/%E8%BF%9E%E6%8E%A5/"/>
+    
   </entry>
   
   <entry>
@@ -67,11 +71,19 @@
     <link href="http://gofarther.live/2019/09/10/next-optimize-1/"/>
     <id>http://gofarther.live/2019/09/10/next-optimize-1/</id>
     <published>2019-09-10T07:23:12.000Z</published>
-    <updated>2019-09-12T02:18:22.265Z</updated>
+    <updated>2019-11-25T05:13:38.741Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;文章标题与摘要之间的距离过大怎么修改，下图是修改之前：&lt;/p&gt;
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;文章标题与摘要之间的距离过大怎么修改，下图是修改之前：![1](next-optimize-1/1.png)
+
+&lt;p&gt;修改之后：&lt;img src=&quot;/2019/09/10/next-optimize-1/2.png&quot;
+        
+      
     
     </summary>
     
@@ -83,6 +95,10 @@
     
       <category term="next" scheme="http://gofarther.live/tags/next/"/>
     
+      <category term="主题" scheme="http://gofarther.live/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="优化" scheme="http://gofarther.live/tags/%E4%BC%98%E5%8C%96/"/>
+    
   </entry>
   
   <entry>
@@ -90,11 +106,17 @@
     <link href="http://gofarther.live/2019/09/07/stay-foolish/"/>
     <id>http://gofarther.live/2019/09/07/stay-foolish/</id>
     <published>2019-09-07T14:50:20.000Z</published>
-    <updated>2019-09-11T06:34:24.028Z</updated>
+    <updated>2019-11-25T05:15:16.740Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;大四开始了，课程表上一片空白，周围大部分的同学都在准备考研，少数的人选择了找工作。感觉长大后，时间过得特别快，昨天我还是对大学的生活充满憧憬的中学生，今天就已经是即将面对残酷社会的下一届毕业大学生。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;大四开始了，课程表上一片空白，周围大部分的同学都在准备考研，少数的人选择了找工作。感觉长大后，时间过得特别快，昨天我还是对大学的生活充满憧憬的中学生，今天就已经是即将面对残酷社会的下一届毕业大学生。
+        
+      
     
     </summary>
     
@@ -102,7 +124,13 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+      <category term="生活" scheme="http://gofarther.live/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="学习" scheme="http://gofarther.live/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="无聊" scheme="http://gofarther.live/tags/%E6%97%A0%E8%81%8A/"/>
+    
+      <category term="乔布斯" scheme="http://gofarther.live/tags/%E4%B9%94%E5%B8%83%E6%96%AF/"/>
     
   </entry>
   
@@ -111,11 +139,17 @@
     <link href="http://gofarther.live/2019/09/05/blog/"/>
     <id>http://gofarther.live/2019/09/05/blog/</id>
     <published>2019-09-05T15:15:52.000Z</published>
-    <updated>2019-09-08T16:13:19.936Z</updated>
+    <updated>2019-11-25T05:12:30.311Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;有好好的CSDN，博客园，还有简书等等已经成熟的网站，为什么还要费这么大力气去买域名，建服务器，个人博客的意义何在？&lt;/p&gt;
+      
+      
+        
+        
+          &lt;a
+        
+      
     
     </summary>
     
@@ -123,7 +157,7 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
+      <category term="博客" scheme="http://gofarther.live/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -132,11 +166,11 @@
     <link href="http://gofarther.live/2019/08/04/1/"/>
     <id>http://gofarther.live/2019/08/04/1/</id>
     <published>2019-08-04T13:40:24.000Z</published>
-    <updated>2019-09-12T02:16:48.683Z</updated>
+    <updated>2019-11-25T04:57:59.734Z</updated>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;一、本地操作&quot;&gt;&lt;a href=&quot;#一、本地操作&quot; class=&quot;headerlink&quot; title=&quot;一、本地操作&quot;&gt;&lt;/a&gt;一、本地操作&lt;/h5&gt;&lt;p&gt;打开git bash（我认为是在任意位置打开都可以，不过有的博主说是需要在你准备提交项目的文件夹下打开，可参考此博文&lt;a href=&quot;https://blog.csdn.net/jingtingfengguo/article/details/51892864&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;链接&lt;/a&gt;）,输入以下命令：&lt;/p&gt;
+      &lt;h5 id=&quot;一、本地操作&quot;&gt;&lt;a href=&quot;#一、本地操作&quot; class=&quot;headerlink&quot; title=&quot;一、本地操作&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -153,11 +187,11 @@
     <link href="http://gofarther.live/2019/08/03/test/"/>
     <id>http://gofarther.live/2019/08/03/test/</id>
     <published>2019-08-03T14:32:00.000Z</published>
-    <updated>2019-09-09T07:31:30.113Z</updated>
+    <updated>2019-11-25T05:14:18.164Z</updated>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;一、准备工作&quot;&gt;&lt;a href=&quot;#一、准备工作&quot; class=&quot;headerlink&quot; title=&quot;一、准备工作&quot;&gt;&lt;/a&gt;一、准备工作&lt;/h5&gt;&lt;h6 id=&quot;1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。&quot;&gt;&lt;a href=&quot;#1、注册一个GitHub账号-并创建一个名为你的用户名-github-io（比如hewie-hui-github-io）的仓库。&quot; class=&quot;headerlink&quot; title=&quot;1、注册一个GitHub账号,并创建一个名为你的用户名.github.io（比如hewie-hui.github.io）的仓库。&quot;&gt;&lt;/a&gt;1、注册一个GitHub账号,并创建一个名为&lt;code&gt;你的用户名.github.io&lt;/code&gt;（比如hewie-hui.github.io）的仓库。&lt;/h6&gt;
+      &lt;h5 id=&quot;一、准备工作&quot;&gt;&lt;a href=&quot;#一、准备工作&quot; class=&quot;headerlink&quot; title=&quot;一、准备工作&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -166,6 +200,8 @@
     
     
       <category term="github" scheme="http://gofarther.live/tags/github/"/>
+    
+      <category term="博客" scheme="http://gofarther.live/tags/%E5%8D%9A%E5%AE%A2/"/>
     
       <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
     
@@ -176,11 +212,17 @@
     <link href="http://gofarther.live/2019/08/01/my-first-blog/"/>
     <id>http://gofarther.live/2019/08/01/my-first-blog/</id>
     <published>2019-08-01T04:04:42.000Z</published>
-    <updated>2019-09-12T02:18:08.007Z</updated>
+    <updated>2019-11-25T05:13:14.160Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;我们想学习新的东西，开始时都是比较难受的。一直想搭建一个自己的博客网站，记录自己的学习和生活。可是技术过菜，不知道应该先做什么，于是在百度，CSDN，博客园上各种搜。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;a
+        
+      
     
     </summary>
     
@@ -188,11 +230,13 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="notion" scheme="http://gofarther.live/tags/notion/"/>
-    
       <category term="github" scheme="http://gofarther.live/tags/github/"/>
     
+      <category term="博客" scheme="http://gofarther.live/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
       <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
+    
+      <category term="学习" scheme="http://gofarther.live/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
