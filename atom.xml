@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gofarther.live/"/>
-  <updated>2019-12-29T18:12:43.861Z</updated>
+  <updated>2019-12-29T18:33:38.632Z</updated>
   <id>http://gofarther.live/</id>
   
   <author>
@@ -18,20 +18,14 @@
   
   <entry>
     <title>梦想的远去与自己的执着</title>
-    <link href="http://gofarther.live/2019/12/29/2019-12-29/"/>
-    <id>http://gofarther.live/2019/12/29/2019-12-29/</id>
+    <link href="http://gofarther.live/2019/12/29/%E6%A2%A6%E6%83%B3%E7%9A%84%E8%BF%9C%E5%8E%BB%E4%B8%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E6%89%A7%E7%9D%80/"/>
+    <id>http://gofarther.live/2019/12/29/梦想的远去与自己的执着/</id>
     <published>2019-12-29T02:33:07.000Z</published>
-    <updated>2019-12-29T18:12:43.861Z</updated>
+    <updated>2019-12-29T18:33:38.632Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -50,15 +44,15 @@
   </entry>
   
   <entry>
-    <title>10001</title>
-    <link href="http://gofarther.live/2019/11/24/10001/"/>
-    <id>http://gofarther.live/2019/11/24/10001/</id>
+    <title>去他妈的世界</title>
+    <link href="http://gofarther.live/2019/11/24/%E5%8E%BB%E4%BB%96%E5%A6%88%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    <id>http://gofarther.live/2019/11/24/去他妈的世界/</id>
     <published>2019-11-24T14:48:57.000Z</published>
-    <updated>2019-12-28T13:12:51.283Z</updated>
+    <updated>2019-12-29T18:33:11.547Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+      &lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;center&gt;&lt;/center&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -104,20 +98,11 @@
     <link href="http://gofarther.live/2019/09/10/next-optimize-1/"/>
     <id>http://gofarther.live/2019/09/10/next-optimize-1/</id>
     <published>2019-09-10T07:23:12.000Z</published>
-    <updated>2019-11-25T14:58:16.502Z</updated>
+    <updated>2019-12-29T18:30:50.886Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;文章标题与摘要之间的距离过大怎么修改，下图是修改之前：
-
-&lt;p&gt;&lt;img src=&quot;//gofarther.live/2019/09/10/next-optimize-1/1.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;修改之后：&lt;img
-        
-      
+      &lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -140,17 +125,11 @@
     <link href="http://gofarther.live/2019/09/07/stay-foolish/"/>
     <id>http://gofarther.live/2019/09/07/stay-foolish/</id>
     <published>2019-09-07T14:50:20.000Z</published>
-    <updated>2019-11-25T05:15:16.740Z</updated>
+    <updated>2019-12-29T18:29:35.719Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;大四开始了，课程表上一片空白，周围大部分的同学都在准备考研，少数的人选择了找工作。感觉长大后，时间过得特别快，昨天我还是对大学的生活充满憧憬的中学生，今天就已经是即将面对残酷社会的下一届毕业大学生。
-        
-      
+      &lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -158,9 +137,9 @@
       <category term="随笔" scheme="http://gofarther.live/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活" scheme="http://gofarther.live/tags/%E7%94%9F%E6%B4%BB/"/>
-    
       <category term="学习" scheme="http://gofarther.live/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="生活" scheme="http://gofarther.live/tags/%E7%94%9F%E6%B4%BB/"/>
     
       <category term="无聊" scheme="http://gofarther.live/tags/%E6%97%A0%E8%81%8A/"/>
     
@@ -173,17 +152,11 @@
     <link href="http://gofarther.live/2019/09/05/blog/"/>
     <id>http://gofarther.live/2019/09/05/blog/</id>
     <published>2019-09-05T15:15:52.000Z</published>
-    <updated>2019-11-25T15:04:27.235Z</updated>
+    <updated>2019-12-29T18:29:31.591Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a
-        
-      
+      &lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
@@ -246,17 +219,11 @@
     <link href="http://gofarther.live/2019/08/01/my-first-blog/"/>
     <id>http://gofarther.live/2019/08/01/my-first-blog/</id>
     <published>2019-08-01T04:04:42.000Z</published>
-    <updated>2019-11-25T15:05:55.941Z</updated>
+    <updated>2019-12-29T18:30:51.866Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a
-        
-      
+      &lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;
     
     </summary>
     
