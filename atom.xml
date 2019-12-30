@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gofarther.live/"/>
-  <updated>2019-12-29T18:45:07.892Z</updated>
+  <updated>2019-12-30T14:43:37.836Z</updated>
   <id>http://gofarther.live/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://gofarther.live/2019/12/29/2019-12-29/"/>
     <id>http://gofarther.live/2019/12/29/2019-12-29/</id>
     <published>2019-12-29T02:33:07.000Z</published>
-    <updated>2019-12-29T18:45:07.892Z</updated>
+    <updated>2019-12-30T14:43:37.836Z</updated>
     
     <summary type="html">
     
@@ -208,9 +208,9 @@
     
       <category term="github" scheme="http://gofarther.live/tags/github/"/>
     
-      <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
-    
       <category term="博客" scheme="http://gofarther.live/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
     
   </entry>
   
@@ -233,9 +233,9 @@
     
       <category term="github" scheme="http://gofarther.live/tags/github/"/>
     
-      <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
-    
       <category term="博客" scheme="http://gofarther.live/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="http://gofarther.live/tags/hexo/"/>
     
       <category term="学习" scheme="http://gofarther.live/tags/%E5%AD%A6%E4%B9%A0/"/>
     
