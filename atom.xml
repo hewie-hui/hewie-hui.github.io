@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gofarther.cn/"/>
-  <updated>2021-04-19T15:56:20.969Z</updated>
+  <updated>2021-06-06T12:10:44.805Z</updated>
   <id>http://gofarther.cn/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wencheng</title>
+    <link href="http://gofarther.cn/2021/04/26/wencheng/"/>
+    <id>http://gofarther.cn/2021/04/26/wencheng/</id>
+    <published>2021-04-26T15:00:03.000Z</published>
+    <updated>2021-06-06T12:10:44.805Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;《文城》的腰封上写有这样一句话——人生就是自己的往事和他人的序章，起初刚买来的时候，看到这句话不是很有感触。&lt;/p&gt;
+&lt;p&gt;人生就是自己的一生，为什么要把人生分为自己的往事和他人的序章，自己所经历的一切不就是一场人生吗？读完《文城》，我发现我错了，只谈自己确实算不上一个完整
+        
+      
+    
+    </summary>
+    
+    
+      <category term="赶书" scheme="http://gofarther.cn/categories/%E8%B5%B6%E4%B9%A6/"/>
+    
+    
+      <category term="余华" scheme="http://gofarther.cn/tags/%E4%BD%99%E5%8D%8E/"/>
+    
+      <category term="阅读" scheme="http://gofarther.cn/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="文城" scheme="http://gofarther.cn/tags/%E6%96%87%E5%9F%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>感谢深渊里挣扎的自己</title>
@@ -95,11 +127,11 @@
       <category term="随笔" scheme="http://gofarther.cn/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="努力" scheme="http://gofarther.cn/tags/%E5%8A%AA%E5%8A%9B/"/>
-    
       <category term="梦想" scheme="http://gofarther.cn/tags/%E6%A2%A6%E6%83%B3/"/>
     
       <category term="失败" scheme="http://gofarther.cn/tags/%E5%A4%B1%E8%B4%A5/"/>
+    
+      <category term="努力" scheme="http://gofarther.cn/tags/%E5%8A%AA%E5%8A%9B/"/>
     
       <category term="坚强" scheme="http://gofarther.cn/tags/%E5%9D%9A%E5%BC%BA/"/>
     
