@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>go farther</title>
+  
+  <subtitle>去行更远的路</subtitle>
+  <link href="http://gofarther.cn/atom.xml" rel="self"/>
+  
+  <link href="http://gofarther.cn/"/>
+  <updated>2023-08-16T10:20:02.086Z</updated>
+  <id>http://gofarther.cn/</id>
+  
+  <author>
+    <name>hewiehui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随遇而安中的命中注定</title>
+    <link href="http://gofarther.cn/2020/06/30/qingdao-blog/"/>
+    <id>http://gofarther.cn/2020/06/30/qingdao-blog/</id>
+    <published>2020-06-30T15:47:27.000Z</published>
+    <updated>2023-08-16T10:20:02.086Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://gofarther.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="http://gofarther.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="青岛" scheme="http://gofarther.cn/tags/%E9%9D%92%E5%B2%9B/"/>
+    
+    <category term="理想" scheme="http://gofarther.cn/tags/%E7%90%86%E6%83%B3/"/>
+    
+    <category term="毕业" scheme="http://gofarther.cn/tags/%E6%AF%95%E4%B8%9A/"/>
+    
+    <category term="参军" scheme="http://gofarther.cn/tags/%E5%8F%82%E5%86%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>梦想的远去与自己的执着</title>
+    <link href="http://gofarther.cn/2019/12/29/2019-12-29/"/>
+    <id>http://gofarther.cn/2019/12/29/2019-12-29/</id>
+    <published>2019-12-29T02:33:07.000Z</published>
+    <updated>2023-08-16T10:20:09.787Z</updated>
+    
+    
+    <summary type="html">&lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;center&gt;&lt;/center&gt;&lt;/h5&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://gofarther.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="梦想" scheme="http://gofarther.cn/tags/%E6%A2%A6%E6%83%B3/"/>
+    
+    <category term="失败" scheme="http://gofarther.cn/tags/%E5%A4%B1%E8%B4%A5/"/>
+    
+    <category term="努力" scheme="http://gofarther.cn/tags/%E5%8A%AA%E5%8A%9B/"/>
+    
+    <category term="坚强" scheme="http://gofarther.cn/tags/%E5%9D%9A%E5%BC%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>胡乱</title>
+    <link href="http://gofarther.cn/2019/11/24/10001/"/>
+    <id>http://gofarther.cn/2019/11/24/10001/</id>
+    <published>2019-11-24T14:48:57.000Z</published>
+    <updated>2023-08-16T10:20:11.270Z</updated>
+    
+    
+    <summary type="html">&lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;center&gt;&lt;/center&gt;&lt;/h5&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://gofarther.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="http://gofarther.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="家" scheme="http://gofarther.cn/tags/%E5%AE%B6/"/>
+    
+    <category term="双十一" scheme="http://gofarther.cn/tags/%E5%8F%8C%E5%8D%81%E4%B8%80/"/>
+    
+    <category term="小米" scheme="http://gofarther.cn/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>求知若饥，虚心若愚</title>
+    <link href="http://gofarther.cn/2019/09/07/stay-foolish/"/>
+    <id>http://gofarther.cn/2019/09/07/stay-foolish/</id>
+    <published>2019-09-07T14:50:20.000Z</published>
+    <updated>2023-08-16T10:20:00.544Z</updated>
+    
+    
+    <summary type="html">&lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://gofarther.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="http://gofarther.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="学习" scheme="http://gofarther.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="无聊" scheme="http://gofarther.cn/tags/%E6%97%A0%E8%81%8A/"/>
+    
+    <category term="乔布斯" scheme="http://gofarther.cn/tags/%E4%B9%94%E5%B8%83%E6%96%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客的意义</title>
+    <link href="http://gofarther.cn/2019/09/05/blog/"/>
+    <id>http://gofarther.cn/2019/09/05/blog/</id>
+    <published>2019-09-05T15:15:52.000Z</published>
+    <updated>2023-08-16T10:20:08.194Z</updated>
+    
+    
+    <summary type="html">&lt;h5 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;&lt;/h5&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://gofarther.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="博客" scheme="http://gofarther.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
